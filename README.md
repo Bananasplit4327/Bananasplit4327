@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hello. If you are reading this, why are you reading this because reading this is reading that but reading is for reading readers who like to do something.
 
+
+### 🔭 I'm currently working on an app to calculate the healthy amount of seasonings for different people while taking into account different conditions they could have such as Diabetes types A and B, a Critical Heart Condition, Or Liver Disease
+
+### 🌱 I’m currently learning C#
+
+### 💬 Ask me about NEDC 2023 (I was on the Utah Team)
+
+### ⚡ Fun fact: Technically, we are just brains piloting flesh mechs.
 <!--
 **Bananasplit4327/Bananasplit4327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
